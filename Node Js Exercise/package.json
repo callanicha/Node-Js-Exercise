@@ -1,0 +1,12 @@
+{
+  "name": "excerise",
+  "version": "1.0.0",
+  "description": "This is a simple JavaScript example of how to create and update an object. The object, student, represents a student named Marie.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
